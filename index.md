@@ -10,7 +10,7 @@
   
  ![ShopInfo](https://teleship-space.sgp1.cdn.digitaloceanspaces.com/ads/shop_info.png "shop info")
 
- ## [0.1.34] - 2023-06-08
+## [0.1.34] - 2023-06-08
 ### Thêm chức năng mới
 - Shipper có thể nhập mã khuyến mãi khi gia hạn
 
